@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "4e30414413ff07e32594db11aee6d6cc41aa27ceb38a1c53445d5729419f6394"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "django-summernote": {
+            "git": "https://github.com/summernote/django-summernote.git",
+            "ref": "702b574920342766f56262725d87125719156878"
+        }
+    },
+    "develop": {}
+}
